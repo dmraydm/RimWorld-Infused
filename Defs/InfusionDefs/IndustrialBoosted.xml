@@ -5664,8 +5664,8 @@
     <label>Randy's</label>
     <labelShort>rand</labelShort>
     <allowance>
-      <melee>true</melee>
-      <ranged>false</ranged>
+      <melee>false</melee>
+      <ranged>true</ranged>
       <apparel>false</apparel>
     </allowance>
     <stats>
@@ -5760,8 +5760,8 @@
     <label>Cassie's</label>
     <labelShort>cass</labelShort>
     <allowance>
-      <melee>true</melee>
-      <ranged>false</ranged>
+      <melee>false</melee>
+      <ranged>true</ranged>
       <apparel>false</apparel>
     </allowance>
     <stats>
@@ -5856,8 +5856,8 @@
     <label>Phoebe's</label>
     <labelShort>phoe</labelShort>
     <allowance>
-      <melee>true</melee>
-      <ranged>false</ranged>
+      <melee>false</melee>
+      <ranged>true</ranged>
       <apparel>false</apparel>
     </allowance>
     <stats>
