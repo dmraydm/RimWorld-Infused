@@ -870,7 +870,7 @@
   </Infused.Def>
   <Infused.Def ParentName="AmplifiedLegendary">
     <defName>Hypervision</defName>
-    <label>of visn</label>
+    <label>of hypervision</label>
     <labelShort>sght</labelShort>
     <allowance>
       <melee>false</melee>
