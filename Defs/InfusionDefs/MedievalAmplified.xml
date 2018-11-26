@@ -601,8 +601,8 @@
     </stats>
   </Infused.Def>
   <Infused.Def ParentName="AmplifiedEpic">
-    <defName>Persuation</defName>
-    <label>of persuation</label>
+    <defName>Persuasion</defName>
+    <label>of persuasion</label>
     <labelShort>pers</labelShort>
     <allowance>
       <apparel>true</apparel>
